@@ -3,7 +3,7 @@ honeydork es una herramienta que te entrega un listado lleno de dorks :D
 
 # instalación:
 
-git clone 
+git clone https://github.com/Lac0lm3n4/honeydork.git
 
 cd honeydork
 
